@@ -1,0 +1,32 @@
+body{
+  font-family: "Aria","Meiryo",sans-serif;
+}
+.parent{
+  text-align: center;
+  height: 300px;
+  align-content: space-between;
+  font-size: 20px;
+}
+.child{
+  font-weight: bold;
+}
+.pink{
+  color:rgb(255 192 203);
+}
+.blue{
+  color:skyblue;
+}
+#m-pink{
+  color:rgb(255 192 203);
+}
+#p-blue{
+  color: skyblue;
+}
+h1{
+  font-family: "JosefinSans",sans-serif;
+  font-size: 200%;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 1px gray;
+  border-bottom:solid 3px rgb(115 115 114);
+}
+
