@@ -1,7 +1,7 @@
 body{
   font-family: "Aria","Meiryo",sans-serif;
 }
-.parent{
+#parent{
   text-align: center;
   height: 300px;
   align-content: space-between;
@@ -24,7 +24,7 @@ body{
 }
 h1{
   font-family: "JosefinSans",sans-serif;
-  font-size: 200%;
+  font-size: 2.0em;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px 1px gray;
   border-bottom:solid 3px rgb(115 115 114);
